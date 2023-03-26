@@ -1,1 +1,1 @@
-# budget-application
+# Unit testing with Django

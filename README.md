@@ -1,3 +1,3 @@
 # Unit testing with Django
 
-Test my budget app
+Test the units of my budget app
